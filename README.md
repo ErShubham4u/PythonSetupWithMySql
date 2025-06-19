@@ -13,3 +13,11 @@ Install the MySQL connector for Python using:
 
 ```bash
 python -m pip install mysql-connector-python
+
+## Delete the config files
+
+```bash
+Win + R
+
+```bash
+%userprofile%\.idlerc
